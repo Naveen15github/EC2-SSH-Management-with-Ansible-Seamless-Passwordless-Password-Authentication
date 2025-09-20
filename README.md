@@ -3,7 +3,8 @@
 ## 🚀 Overview
 
 This guide explains step-by-step how to set up hybrid SSH management for AWS EC2 instances using Ansible, **entirely from the command prompt**. You’ll configure both key-based (passwordless) and password-based authentication, enabling flexible automation across diverse environments.
-![image2](image2)
+![image2](https://github.com/Naveen15github/EC2-SSH-Management-with-Ansible-Seamless-Passwordless-Password-Authentication/blob/cae2baf68d8d7ecf3950d1f17bf35f19e154ea09/ChatGPT%20Image%20Sep%2020%2C%202025%2C%2009_19_37%20PM.png
+)
 
 ---
 
@@ -87,12 +88,14 @@ ansible-playbook -i inventory hybrid-ec2-management.yml
 
 ### EC2 Instances in AWS Console
 
-![image2](image2)
+![image2](https://github.com/Naveen15github/EC2-SSH-Management-with-Ansible-Seamless-Passwordless-Password-Authentication/blob/cae2baf68d8d7ecf3950d1f17bf35f19e154ea09/Screenshot%202025-09-20%20211636.png)
 
 ### SSH Connectivity Success
 
-![image3](image3)
-
+![image3](https://github.com/Naveen15github/EC2-SSH-Management-with-Ansible-Seamless-Passwordless-Password-Authentication/blob/cae2baf68d8d7ecf3950d1f17bf35f19e154ea09/Screenshot%20(45).png)
+![image3](https://github.com/Naveen15github/EC2-SSH-Management-with-Ansible-Seamless-Passwordless-Password-Authentication/blob/cae2baf68d8d7ecf3950d1f17bf35f19e154ea09/Screenshot%20(46).png)
+![image3](https://github.com/Naveen15github/EC2-SSH-Management-with-Ansible-Seamless-Passwordless-Password-Authentication/blob/cae2baf68d8d7ecf3950d1f17bf35f19e154ea09/Screenshot%20(47).png)
+![image3](https://github.com/Naveen15github/EC2-SSH-Management-with-Ansible-Seamless-Passwordless-Password-Authentication/blob/cae2baf68d8d7ecf3950d1f17bf35f19e154ea09/Screenshot%202025-09-20%20204542.png)
 
 *(Replace `image1`, `image2`, etc. with your actual screenshots in the `images/` directory.)*
 
