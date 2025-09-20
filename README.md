@@ -3,6 +3,7 @@
 ## 🚀 Overview
 
 This guide explains step-by-step how to set up hybrid SSH management for AWS EC2 instances using Ansible, **entirely from the command prompt**. You’ll configure both key-based (passwordless) and password-based authentication, enabling flexible automation across diverse environments.
+![image2](image2)
 
 ---
 
